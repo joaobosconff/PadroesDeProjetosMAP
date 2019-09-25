@@ -1,4 +1,4 @@
-package br.facisa.si.map.factorymethod;
+package br.facisa.si.map.factorymethod.example;
 
 public class FabricaVeiculo {
 	

@@ -3,9 +3,9 @@ package br.facisa.si.map.singleton;
 public class Conexao {
 	
 	private static Conexao instance;
+	
 
 	private Conexao() {
-
 	}
 
 	public static Conexao getInstance() {
@@ -13,6 +13,6 @@ public class Conexao {
 			instance = new Conexao();
 		}
 		return instance;
-	}
+	}	
 
 }

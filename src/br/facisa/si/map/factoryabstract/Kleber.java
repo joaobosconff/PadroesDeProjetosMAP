@@ -1,6 +1,6 @@
 package br.facisa.si.map.factoryabstract;
 
-public class Kleber extends Capivara{
+public class Kleber extends Robson{
 
 	public Kleber(Integer status) {
 		super(status);
